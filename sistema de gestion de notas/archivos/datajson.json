@@ -1,0 +1,93 @@
+{
+    "2400180077": {
+        "cedula": "2400180077",
+        "nombre": "IVAN",
+        "apellido": "suarez",
+        "nivel": "Nivel Tercer",
+        "materias": {
+            "Cuarto": [
+                "administracion"
+            ],
+            "Primer": [
+                "calculo",
+                "Algoritmo",
+                "calculo",
+                "calculo",
+                "calculo",
+                "calculo",
+                "Algoritmo",
+                "introduccion"
+            ],
+            "Tercer": [
+                "ecuaciones"
+            ],
+            "Octavo": [
+                "pedagog\u00c3\u00ada",
+                "pedagog\u00c3\u00ada"
+            ]
+        },
+        "notas": {
+            "parcial1": 20.0,
+            "parcial2": 10.0,
+            "examen_final": 20.0,
+            "recuperacion": 50.0
+        },
+        "curso": "Curso A1",
+        "periodo": {
+            "id": 1,
+            "inicio_semestre": "2024-04-01",
+            "fin_semestre": "2024-07-31"
+        }
+    },
+    "1234567890": {
+        "cedula": "1234567890",
+        "nombre": "joan",
+        "apellido": "lucifer",
+        "nivel": "Nivel Primer",
+        "materias": {
+            "Primer": [
+                "calculo",
+                "introduccion",
+                "Algoritmo"
+            ],
+            "Cuarto": [
+                "estadistica",
+                "programacion",
+                "sistemas operativos",
+                "arquitectura",
+                "base de datos"
+            ],
+            "Tercer": [
+                "estructura"
+            ],
+            "Segundo": [
+                "algebra",
+                "tecnicas"
+            ]
+        },
+        "notas": {
+            "parcial1": 50.0,
+            "parcial2": 10.0,
+            "examen_final": 5.0,
+            "recuperacion": 10.0
+        }
+    },
+    "0942476235": {
+        "cedula": "0942476235",
+        "nombre": "kevin",
+        "apellido": "Barboza",
+        "nivel": "Nivel Cuarto",
+        "materias": {
+            "Cuarto": [
+                "programacion",
+                "base de datos"
+            ]
+        },
+        "notas": {
+            "parcial1": 15.0,
+            "parcial2": 13.0,
+            "examen_final": 34.0,
+            "recuperacion": 25.0
+        }
+    }
+}

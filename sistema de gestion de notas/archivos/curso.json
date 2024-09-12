@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "curso": "Curso A1",
+        "fecha_creacion": "2024-09-11",
+        "active": "Activo"
+    },
+    {
+        "id": "2",
+        "curso": "Curso B2",
+        "fecha_creacion": "2024-09-11",
+        "active": "Activo"
+    },
+    {
+        "id": "3",
+        "curso": "Curso C3",
+        "fecha_creacion": "2024-09-11",
+        "active": "Activo"
+    }
+]
